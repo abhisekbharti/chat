@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(14, 1, 48);
+    /* width: 100vw; */
+    height: 350px;
+    color: rgb(155, 102, 37);
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+h3{
+    font-size: 15px;
+    color: rgb(221, 130, 18);
+}
+.icons a{
+    gap: 10px;
+    display: block;
+    align-items: first baseline;
+    /* text-align: center; */
+}
